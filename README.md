@@ -8,9 +8,11 @@ The stack:
         Meeting ID: 810 0875 0206
         Passcode: 341439 
 
-- Mailchimp
-- Photoshop: any version after CS6 (version 13.0 64bit)
-- Canva: 
-- Premiere
-- Google Colab/Whisper.ai
-- Youtube
+- Mailchimp: pssc@acmsiggraph.org <get password from Jenny Dana> 
+
+- Photoshop: any version including and after CS6 (version 13.0 64bit)
+- Canva: https://www.canva.com/design/DAFuxFhJbdU/syLK3Bxmll1QHiEIwwd8Pw/edit (Announcements video intro)
+         https://www.canva.com/design/DAFlbudiO_I/5Dyz5-36mGQUrw9fYUSrtA/edit (Announcements Youtube thumbnail)
+- Premiere: any version including and after CS6 (version 13.0 64bit)
+- Google Colab/Whisper.ai: N/A
+- Youtube: pssc@acmsiggraph.org <get password from Jenny Dana>
