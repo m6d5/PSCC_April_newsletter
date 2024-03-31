@@ -1,6 +1,6 @@
 This file contains all the info needed to send out the newsletter.
 
-The stack:
+**The Stack:**
 - Trello: https://trello.com/c/O7N0G9Vd/294-newsletter-content-april
 - Google Calendar: Meeting with PSCC Chair usually on last Wednesday of the previous month
   
