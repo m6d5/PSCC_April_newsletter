@@ -1,4 +1,4 @@
-This file contains all the info needed to send out the newsletter.
+This file contains all the info needed to send out the newsletter.  
 
 **The Stack:**
 - Trello: https://trello.com/c/O7N0G9Vd/294-newsletter-content-april
