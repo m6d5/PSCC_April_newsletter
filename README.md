@@ -8,11 +8,11 @@ This file contains all the info needed to send out the newsletter.
         Meeting ID: 810 0875 0206  
         Passcode: 341439 
 
-- Mailchimp: pssc@acmsiggraph.org <get password from Jenny Dana> 
+- Mailchimp: pssc@acmsiggraph.org (get password from Jenny Dana)
 
 - Photoshop: any version including and after CS6 (version 13.0 64bit)
 - Canva: https://www.canva.com/design/DAFuxFhJbdU/syLK3Bxmll1QHiEIwwd8Pw/edit (Announcements video intro)
          https://www.canva.com/design/DAFlbudiO_I/5Dyz5-36mGQUrw9fYUSrtA/edit (Announcements Youtube thumbnail)
 - Premiere: any version including and after CS6 (version 13.0 64bit)
 - Google Colab/Whisper.ai: N/A
-- Youtube: pssc@acmsiggraph.org <get password from Jenny Dana>
+- Youtube: pssc@acmsiggraph.org (get password from Jenny Dana)
