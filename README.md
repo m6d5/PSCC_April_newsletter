@@ -16,3 +16,4 @@ This file contains all the info needed to send out the newsletter.
 - Premiere: any version including and after CS6 (version 13.0 64bit)
 - Google Colab/Whisper.ai: N/A
 - Youtube: pssc@acmsiggraph.org (get password from Jenny Dana)
+
